@@ -85,7 +85,7 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jon Azose</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Azose, Jon</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://scholar.google.com/citations?user=91K_qfAAAAAJ&hl=en</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://scholar.google.com/citations?user=91K_qfAAAAAJ</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
