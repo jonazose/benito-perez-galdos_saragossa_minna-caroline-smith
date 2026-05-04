@@ -27,8 +27,15 @@
 		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
-		<dc:title id="title">Saragossa</dc:title>
-		<meta property="file-as" refines="#title">Saragossa</meta>
+        <dc:title id="title">Saragossa</dc:title>
+        <meta property="file-as" refines="#title">Saragossa</meta>
+        <meta property="title-type" refines="#title">main</meta>
+        <dc:title id="subtitle">A Story of Spanish Valor</dc:title>
+        <meta property="file-as" refines="#subtitle">Story of Spanish Valor, A</meta>
+        <meta property="title-type" refines="#subtitle">subtitle</meta>
+        <dc:title id="fulltitle">Saragossa: A Story of Spanish Valor</dc:title>
+        <meta property="file-as" refines="#fulltitle">Saragossa</meta>
+        <meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCHS</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
