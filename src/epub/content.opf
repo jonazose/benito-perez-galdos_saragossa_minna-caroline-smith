@@ -49,9 +49,11 @@
 		<meta id="collection-1" property="belongs-to-collection">National Episodes of Spain</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">6</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young man joins the citizens of the Spanish city of Zaragoza in defending against an attack by the French.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Gabriel de Araceli is a young volunteer in the Spanish military who arrives in the city of Zaragoza eager to defend it against an anticipated attack by the French army. Gabriel quickly befriends a local youth, Augustine Montoria, who faces not only the extramural struggle against the invading French, but also the personal intramural turmoil caused by his love of Mariquilla, the daughter of his father's enemy.&lt;/p&gt;
+			&lt;p&gt;This sixth book in &lt;a href="https://en.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s"&gt;Benito Pérez Galdós&lt;/a&gt;'s &lt;a href="https://standardebooks.org/collections/national-episodes-of-spain"&gt;Episodios Nacionales&lt;/a&gt; series puts a human face on the brutal events of the 1809 &lt;a href="https://en.wikipedia.org/wiki/Siege_of_Zaragoza_(1809)"&gt;Siege of Zaragoza&lt;/a&gt;. &lt;em&gt;Saragossa&lt;/em&gt; explores themes of valor, patriotism, and duty in the face of overwhelming odds.&lt;/p&gt;
+			&lt;p&gt;First published in Spanish in 1874, this edition is based on the 1899 translation by Minna Caroline Smith.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/47769</dc:source>
@@ -62,7 +64,7 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Saragossa</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/benito-perez-galdos_saragossa_minna-caroline-smith</meta>
 		<dc:creator id="author">Benito Pérez Galdós</dc:creator>
-		<meta property="file-as" refines="#author">Galdós, Benito Pérez</meta>
+		<meta property="file-as" refines="#author">Pérez Galdós, Benito</meta>
 		<meta property="se:name.person.full-name" refines="#author">Benito María de los Dolores Pérez Galdós</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79058843</meta>
@@ -71,10 +73,10 @@
 		<meta property="file-as" refines="#translator">Smith, Minna Caroline</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no99069464</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Nicolás Enríquez</dc:contributor>
+		<meta property="file-as" refines="#artist">Enríquez, Nicolás</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Nicol%C3%A1s_Enr%C3%ADquez</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/no2024133338</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Josep Cols Canals</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Cols Canals, Josep</meta>
@@ -88,7 +90,6 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jon Azose</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Azose, Jon</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://scholar.google.com/citations?user=91K_qfAAAAAJ</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
