@@ -58,7 +58,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/47769</dc:source>
 		<dc:source>https://archive.org/details/saragossa0000unse</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The Project Gutenberg text upon which this ebook is based already included a number of editorial changes documented in the Project Gutenberg <a href="https://www.gutenberg.org/cache/epub/47769/pg47769-images.html#New_Fiction">Transcriber's Notes</a>.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Saragossa</meta>
