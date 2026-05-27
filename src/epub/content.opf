@@ -58,10 +58,8 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/47769</dc:source>
 		<dc:source>https://archive.org/details/saragossa0000unse</dc:source>
-		<meta property="se:production-notes">The Project Gutenberg text upon which this ebook is based already included a number of editorial changes documented in the Project Gutenberg Transcriber's Notes.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Saragossa</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/benito-perez-galdos_saragossa_minna-caroline-smith</meta>
 		<dc:creator id="author">Benito Pérez Galdós</dc:creator>
 		<meta property="file-as" refines="#author">Pérez Galdós, Benito</meta>
@@ -75,6 +73,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Nicolás Enríquez</dc:contributor>
 		<meta property="file-as" refines="#artist">Enríquez, Nicolás</meta>
+        <meta property="se:name.person.full-name" refines="#artist">Nicolás Enríquez de Vargas</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Nicol%C3%A1s_Enr%C3%ADquez</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2024133338</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
