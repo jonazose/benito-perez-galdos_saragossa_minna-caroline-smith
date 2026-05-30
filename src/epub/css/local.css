@@ -71,12 +71,11 @@ section[epub|type~="epigraph"] > *{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
-
 /* End verse and song */
 
 /* Inscription in Chapter 20 */
 #chapter-20 blockquote{
-    font-style: italic;
-    text-align: center;
+	font-style: italic;
+	text-align: center;
 }
 /* End inscription */

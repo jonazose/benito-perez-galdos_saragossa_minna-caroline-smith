@@ -73,7 +73,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Nicolás Enríquez</dc:contributor>
 		<meta property="file-as" refines="#artist">Enríquez, Nicolás</meta>
-        <meta property="se:name.person.full-name" refines="#artist">Nicolás Enríquez de Vargas</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Nicolás Enríquez de Vargas</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Nicol%C3%A1s_Enr%C3%ADquez</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2024133338</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
