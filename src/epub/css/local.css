@@ -73,3 +73,10 @@ section[epub|type~="epigraph"] > *{
 }
 
 /* End verse and song */
+
+/* Inscription in Chapter 20 */
+#chapter-20 blockquote{
+    font-style: italic;
+    text-align: center;
+}
+/* End inscription */
